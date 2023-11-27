@@ -48,7 +48,7 @@ public class Main {
         else if (Funciones.obtenerSueldo1000(auxTrabajador.getSueldo()))
             contador1000++;
     }
-
+//prueba commit en push
     /**
      * Muestra por consola los contadores
      */

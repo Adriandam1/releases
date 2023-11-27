@@ -28,7 +28,7 @@ public class Trabajador {
     public double getSueldo() {
         return sueldo;
     }
-
+//aaa
     public void setSueldo(double sueldo) {
         this.sueldo = sueldo;
     }

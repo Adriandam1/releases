@@ -40,7 +40,7 @@ public class Main {
 
     /**
      * Aumenta contadores segun rango
-     * auxTrabajador Trabajador actual
+     * auxTrabajador Trabajador actualaa
      */
     public static void actualizarContadores(Trabajador auxTrabajador) {
         if (Funciones.obtenerSueldo1750(auxTrabajador.getSueldo()))

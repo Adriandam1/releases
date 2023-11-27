@@ -27,7 +27,7 @@ public class Funciones {
     /**
      * Comprueba si el sueldo es menor que mil
      * @param sueldo del trabajador
-     * @return si es menos que 1000
+     * @return si es menos que 1000aa
      */
     public static Boolean obtenerSueldo1000(Double sueldo){
         if (sueldo > 0 && sueldo < 1000){
